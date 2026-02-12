@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>White Paper</title>
+    <!-- Favicons -->
+    <link href="../assets/img/favicon.png" rel="icon">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+</head>
+<body>
+<script>
+/*
+document.addEventListener("DOMContentLoaded", () => {
+  const iframe = document.getElementById('myFrame');
+
+  setTimeout(() => {
+    console.log('Iframe loaded!');
+
+    const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+
+    const level1Divs = iframeDoc.querySelectorAll('.notion-topbar div');
+    const level2Divs = level1Divs.lastElementChild;
+    const level3Divs = level2Divs.lastElementChild;
+
+    level3Divs.forEach((level3) => {
+      const lastChild = level3.lastElementChild;
+      if (lastChild) {
+        console.log('Remove:', lastChild);
+        lastChild.remove();
+      }
+    });
+  }, 5000);
+});
+*/
+</script>
+<iframe id="myFrame" src="https://phantom-skirt-8d9.notion.site/ebd/27cb454c0dcf800a8336f45ea15d294c" width="100%" height="100%" frameborder="0" allowfullscreen style="height: 100vh;width: 100vw; left: 0; top: 0; position: fixed;"/>
+
+</body>
+</html>
