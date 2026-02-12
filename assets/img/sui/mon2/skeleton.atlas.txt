@@ -1,0 +1,40 @@
+skeleton.png
+size:2037,1904
+filter:Linear,Linear
+pma:true
+Badan
+bounds:2,772,729,1130
+offsets:12,10,748,1144
+Belakang Kepala
+bounds:1712,693,380,323
+offsets:4,7,389,337
+rotate:90
+Ekor
+bounds:2,2,768,1035
+offsets:10,10,789,1048
+rotate:90
+Kaki Kanan
+bounds:733,1011,733,891
+offsets:4,5,748,897
+Kepala
+bounds:1039,397,671,612
+offsets:8,4,687,618
+Tangan Kanan
+bounds:1468,1533,369,444
+offsets:0,13,378,463
+rotate:90
+Tangan Kiri
+bounds:1468,1075,284,456
+offsets:4,2,291,463
+
+skeleton_2.png
+size:988,1092
+filter:Linear,Linear
+pma:true
+Kaki Kiri
+bounds:2,2,372,1088
+offsets:11,3,388,1098
+Kepala Kedip
+bounds:376,421,669,610
+offsets:2,0,681,615
+rotate:90
